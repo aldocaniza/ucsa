@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "file://",
+  "source": "https://demo.logseq.com",
   "elements": [
     {
       "type": "rectangle",
@@ -298,8 +298,8 @@
     },
     {
       "type": "text",
-      "version": 4,
-      "versionNonce": 2106652570,
+      "version": 5,
+      "versionNonce": 1990808388,
       "isDeleted": false,
       "id": "Jt47jm7ERLnTYxt8I4ElJ",
       "fillStyle": "hachure",
@@ -319,7 +319,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732055206931,
+      "updated": 1734613431897,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -330,12 +330,12 @@
       "containerId": null,
       "originalText": "Ra0",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 16
     },
     {
       "type": "text",
-      "version": 4,
-      "versionNonce": 708900698,
+      "version": 5,
+      "versionNonce": 565932796,
       "isDeleted": false,
       "id": "CwRWF-SzoR2q90XmQg8Mu",
       "fillStyle": "hachure",
@@ -355,7 +355,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1732055216212,
+      "updated": 1734613431898,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -366,7 +366,7 @@
       "containerId": null,
       "originalText": "Ra7",
       "lineHeight": 1.25,
-      "baseline": 18
+      "baseline": 16
     },
     {
       "type": "arrow",
