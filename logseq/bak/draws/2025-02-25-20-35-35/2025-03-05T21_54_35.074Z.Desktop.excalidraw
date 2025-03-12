@@ -169,7 +169,7 @@
       "containerId": null,
       "originalText": "T",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "arrow",
@@ -249,7 +249,7 @@
       "containerId": null,
       "originalText": "N",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "arrow",
@@ -329,7 +329,7 @@
       "containerId": null,
       "originalText": "W",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "line",
@@ -409,7 +409,7 @@
       "containerId": null,
       "originalText": "Angulo",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     }
   ],
   "appState": {

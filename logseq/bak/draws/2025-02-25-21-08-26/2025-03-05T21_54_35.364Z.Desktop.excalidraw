@@ -432,7 +432,7 @@
       "containerId": null,
       "originalText": "T",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -468,7 +468,7 @@
       "containerId": null,
       "originalText": "T",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -504,7 +504,7 @@
       "containerId": null,
       "originalText": "2T",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "arrow",
@@ -584,7 +584,7 @@
       "containerId": null,
       "originalText": "P",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -620,7 +620,7 @@
       "containerId": null,
       "originalText": "Sum(FR )= 0",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -656,7 +656,7 @@
       "containerId": null,
       "originalText": "2Ty - P = 0",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -692,7 +692,7 @@
       "containerId": null,
       "originalText": "Aca es positivo",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -728,7 +728,7 @@
       "containerId": null,
       "originalText": "Aca es negativo",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -764,7 +764,7 @@
       "containerId": null,
       "originalText": "P = masa.gravedad",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -800,7 +800,7 @@
       "containerId": null,
       "originalText": "Masa = 90 kg",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -836,7 +836,7 @@
       "containerId": null,
       "originalText": "gravedad = 9,81",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -872,7 +872,7 @@
       "containerId": null,
       "originalText": "P = 90 . 9,81",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -908,7 +908,7 @@
       "containerId": null,
       "originalText": "2T.sen(angulo) - (90 x 9,81) = 0",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -944,7 +944,7 @@
       "containerId": null,
       "originalText": "2T.sen(10) - 882,9= 0",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -980,7 +980,7 @@
       "containerId": null,
       "originalText": "T = 882,9 / (2.sen(10))",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1016,7 +1016,7 @@
       "containerId": null,
       "originalText": "T = 2542,209 N",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1052,7 +1052,7 @@
       "containerId": null,
       "originalText": "sen(angulo) = ty / T",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1088,7 +1088,7 @@
       "containerId": null,
       "originalText": "cos(angulo) = tx / T",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "line",
@@ -1256,7 +1256,7 @@
       "containerId": null,
       "originalText": "Angulo",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1292,7 +1292,7 @@
       "containerId": null,
       "originalText": "T",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1328,7 +1328,7 @@
       "containerId": null,
       "originalText": "Ty",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1364,7 +1364,7 @@
       "containerId": null,
       "originalText": "Tx",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "rectangle",
@@ -1458,7 +1458,7 @@
       "containerId": null,
       "originalText": "Sum(FR )= 0",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1494,7 +1494,7 @@
       "containerId": null,
       "originalText": "2Ty - P = 0",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1530,7 +1530,7 @@
       "containerId": null,
       "originalText": "2T.sen(angulo) - (90 x 9,8) = 0",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1566,7 +1566,7 @@
       "containerId": null,
       "originalText": "2(2,5x10^4).sen(angulo) - 882= 0",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1602,7 +1602,7 @@
       "containerId": null,
       "originalText": "(angulo) = arsen( 882 / (2x2,5x10^4))",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1638,7 +1638,7 @@
       "containerId": null,
       "originalText": "(angulo) = 2539,617 N",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "rectangle",

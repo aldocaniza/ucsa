@@ -717,7 +717,7 @@
       "containerId": null,
       "originalText": "Risco1",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -753,7 +753,7 @@
       "containerId": null,
       "originalText": "Risco 2",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -789,7 +789,7 @@
       "containerId": null,
       "originalText": "P = m.g",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -825,7 +825,7 @@
       "containerId": null,
       "originalText": "g = 9,8 m/s2",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -870,7 +870,7 @@
       "containerId": null,
       "originalText": "P = | N |",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "arrow",
@@ -1090,7 +1090,7 @@
       "containerId": null,
       "originalText": "Angulo",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1126,7 +1126,7 @@
       "containerId": null,
       "originalText": "Angulo",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     }
   ],
   "appState": {

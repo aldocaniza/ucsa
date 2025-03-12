@@ -1145,8 +1145,8 @@
     },
     {
       "type": "text",
-      "version": 50,
-      "versionNonce": 1264563943,
+      "version": 49,
+      "versionNonce": 1466368620,
       "isDeleted": false,
       "id": "2ZpYD80emy7GTXZxuiSKX",
       "fillStyle": "hachure",
@@ -1159,14 +1159,14 @@
       "y": 342.283824828621,
       "strokeColor": "#e03131",
       "backgroundColor": "transparent",
-      "width": 31.594436645507812,
-      "height": 13.132690429687496,
+      "width": 31.612984508201475,
+      "height": 13.1326904296875,
       "seed": 1585441876,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1741211674379,
+      "updated": 1740524417150,
       "link": null,
       "locked": false,
       "fontSize": 10.506152343749998,
@@ -1177,7 +1177,7 @@
       "containerId": null,
       "originalText": "Angulo",
       "lineHeight": 1.25,
-      "baseline": 8
+      "baseline": 9
     },
     {
       "type": "text",
@@ -1213,7 +1213,7 @@
       "containerId": null,
       "originalText": "W",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "line",
@@ -1390,7 +1390,7 @@
       "containerId": null,
       "originalText": "Wy",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1426,7 +1426,7 @@
       "containerId": null,
       "originalText": "Wx",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "arrow",
@@ -1506,7 +1506,7 @@
       "containerId": null,
       "originalText": "T",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "arrow",
@@ -1586,7 +1586,7 @@
       "containerId": null,
       "originalText": "N",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "line",
@@ -1798,7 +1798,7 @@
       "containerId": null,
       "originalText": "Angulo",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1834,7 +1834,7 @@
       "containerId": null,
       "originalText": "W",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1870,7 +1870,7 @@
       "containerId": null,
       "originalText": "Wy",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1906,7 +1906,7 @@
       "containerId": null,
       "originalText": "Wx",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1942,7 +1942,7 @@
       "containerId": null,
       "originalText": "Wy = sen(angulo) . W",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     },
     {
       "type": "text",
@@ -1978,7 +1978,7 @@
       "containerId": null,
       "originalText": "Wx = cos(angulo) . W",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 16
     }
   ],
   "appState": {
