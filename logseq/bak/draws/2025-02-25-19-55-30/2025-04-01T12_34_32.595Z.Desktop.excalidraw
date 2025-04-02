@@ -1177,7 +1177,7 @@
       "containerId": null,
       "originalText": "Angulo",
       "lineHeight": 1.25,
-      "baseline": 10
+      "baseline": 8
     },
     {
       "type": "text",
@@ -1213,7 +1213,7 @@
       "containerId": null,
       "originalText": "W",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "line",
@@ -1390,7 +1390,7 @@
       "containerId": null,
       "originalText": "Wy",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "text",
@@ -1426,7 +1426,7 @@
       "containerId": null,
       "originalText": "Wx",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -1506,7 +1506,7 @@
       "containerId": null,
       "originalText": "T",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "arrow",
@@ -1586,7 +1586,7 @@
       "containerId": null,
       "originalText": "N",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "line",
@@ -1798,7 +1798,7 @@
       "containerId": null,
       "originalText": "Angulo",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "text",
@@ -1834,7 +1834,7 @@
       "containerId": null,
       "originalText": "W",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "text",
@@ -1870,7 +1870,7 @@
       "containerId": null,
       "originalText": "Wy",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "text",
@@ -1906,7 +1906,7 @@
       "containerId": null,
       "originalText": "Wx",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "text",
@@ -1942,7 +1942,7 @@
       "containerId": null,
       "originalText": "Wy = sen(angulo) . W",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     },
     {
       "type": "text",
@@ -1978,7 +1978,7 @@
       "containerId": null,
       "originalText": "Wx = cos(angulo) . W",
       "lineHeight": 1.25,
-      "baseline": 20
+      "baseline": 17
     }
   ],
   "appState": {

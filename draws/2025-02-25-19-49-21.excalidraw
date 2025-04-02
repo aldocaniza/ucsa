@@ -1094,7 +1094,7 @@
       "containerId": null,
       "originalText": "N (Normal)",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 20
     },
     {
       "type": "line",
@@ -1222,7 +1222,7 @@
       "containerId": null,
       "originalText": "P",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 20
     }
   ],
   "appState": {
