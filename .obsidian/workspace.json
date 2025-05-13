@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025_05_06.md",
+                "file": "2025_05_13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_05_06"
+              "title": "2025_05_13"
             }
           }
         ],
@@ -198,6 +198,8 @@
   },
   "active": "c72a62e75ddbce9c",
   "lastOpenFiles": [
+    "2025_05_09.md",
+    "2025_05_13.md",
     "2025_05_06.md",
     "2025_04_25.md",
     "logseq/bak/journals/2024_09_23/2025-03-30T20_51_37.212Z.Desktop.md",
