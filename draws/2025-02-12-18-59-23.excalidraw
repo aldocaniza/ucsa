@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "file://",
+  "source": "http://localhost",
   "elements": [
     {
       "type": "rectangle",
@@ -75,7 +75,7 @@
       "containerId": "IsGMYYropKFaMlZEl3evh",
       "originalText": "Dispositivo Entrada",
       "lineHeight": 1.25,
-      "baseline": 42
+      "baseline": 34
     },
     {
       "type": "rectangle",
@@ -161,7 +161,7 @@
       "containerId": "4JsOKDl289jb0I0-Q7O1p",
       "originalText": "Unidad Central de Proceso CPU",
       "lineHeight": 1.25,
-      "baseline": 42
+      "baseline": 34
     },
     {
       "type": "rectangle",
@@ -235,7 +235,7 @@
       "containerId": "ZaIZLWrQGwnxdknxCBc-3",
       "originalText": "Dispositivo Salida",
       "lineHeight": 1.25,
-      "baseline": 42
+      "baseline": 34
     },
     {
       "type": "rectangle",
@@ -313,7 +313,7 @@
       "containerId": "CtuIswcE9vSoDnlMfqFXr",
       "originalText": "Memoria RAM",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 14
     },
     {
       "type": "arrow",
@@ -525,8 +525,8 @@
     },
     {
       "type": "text",
-      "version": 39,
-      "versionNonce": 1093792265,
+      "version": 40,
+      "versionNonce": 1304034394,
       "isDeleted": false,
       "id": "eQXh5Glh034_9_AwfPLDK",
       "fillStyle": "hachure",
@@ -539,7 +539,7 @@
       "y": 181.40621948242188,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 27.159988403320312,
+      "width": 27.15997314453125,
       "height": 25,
       "seed": 153979640,
       "groupIds": [],
@@ -551,7 +551,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1744215555318,
+      "updated": 1752626379638,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -562,12 +562,12 @@
       "containerId": null,
       "originalText": "UC",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 14
     },
     {
       "type": "text",
-      "version": 62,
-      "versionNonce": 413454087,
+      "version": 63,
+      "versionNonce": 3542598,
       "isDeleted": false,
       "id": "Xs7y_9GSqLy0B2jMQo9Qp",
       "fillStyle": "hachure",
@@ -580,14 +580,14 @@
       "y": 187.40618896484375,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
-      "width": 39.37998962402344,
+      "width": 39.379974365234375,
       "height": 25,
       "seed": 2030055928,
       "groupIds": [],
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1744215555319,
+      "updated": 1752626379639,
       "link": null,
       "locked": false,
       "fontSize": 20,
@@ -598,7 +598,7 @@
       "containerId": null,
       "originalText": "UAL",
       "lineHeight": 1.25,
-      "baseline": 17
+      "baseline": 14
     }
   ],
   "appState": {
